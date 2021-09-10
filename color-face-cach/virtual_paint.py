@@ -19,9 +19,9 @@ myColors = [
 # color_oreng = [51, 153, 255]
 
 myColorValues = [  # BGR
-                 [0, 0, 255],
-                 [0, 255, 0],
-                 [255, 0, 0]]
+    [0, 0, 255],
+    [0, 255, 0],
+    [255, 0, 0]]
 
 myPoints = []  # [x , y , colorId ]
 
